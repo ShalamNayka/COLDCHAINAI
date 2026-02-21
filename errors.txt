@@ -1,0 +1,18 @@
+﻿src/app/api/bookings/[id]/extend/route.ts(13,49): error TS2339: Property 'id' does not exist on type 'never'.
+src/app/api/bookings/[id]/extend/route.ts(16,17): error TS2339: Property 'duration_days' does not exist on type 'never'.
+src/app/api/bookings/[id]/generate-qr/route.ts(14,49): error TS2339: Property 'id' does not exist on type 'never'.
+src/app/api/bookings/[id]/generate-qr/route.ts(17,68): error TS2339: Property 'warehouse_id' does not exist on type 'never'.
+src/app/api/bookings/[id]/generate-qr/route.ts(18,60): error TS2339: Property 'farmer_id' does not exist on type 'never'.
+src/app/api/bookings/[id]/generate-qr/route.ts(24,27): error TS2339: Property 'tons' does not exist on type 'never'.
+src/app/api/bookings/[id]/generate-qr/route.ts(25,31): error TS2339: Property 'duration_days' does not exist on type 'never'.
+src/app/api/bookings/[id]/generate-qr/route.ts(31,17): error TS2339: Property 'status' does not exist on type 'never'.
+src/app/api/bookings/[id]/generate-qr/route.ts(32,17): error TS2339: Property 'qr_code_data_url' does not exist on type 'never'.
+src/app/api/bookings/[id]/generate-qr/route.ts(33,28): error TS2339: Property 'aadhar_number' does not exist on type '{ id: string; phone_number: string; role: string; name: string; }'.
+src/app/api/bookings/route.ts(13,51): error TS2339: Property 'farmer_id' does not exist on type 'never'.
+src/app/api/bookings/route.ts(16,66): error TS2339: Property 'warehouse_id' does not exist on type 'never'.
+src/app/api/bookings/route.ts(33,26): error TS2345: Argument of type 'any' is not assignable to parameter of type 'never'.
+src/app/api/mock-payment/route.ts(11,49): error TS2339: Property 'id' does not exist on type 'never'.
+src/app/api/mock-payment/route.ts(13,21): error TS2339: Property 'status' does not exist on type 'never'.
+src/app/api/mock-payment/route.ts(14,21): error TS2339: Property 'transaction_id' does not exist on type 'never'.
+src/app/api/mock-payment/route.ts(19,38): error TS2339: Property 'transaction_id' does not exist on type 'never'.
+src/app/farmer/layout.tsx(3,18): error TS2307: Cannot find module 'next/next/link' or its corresponding type declarations.
